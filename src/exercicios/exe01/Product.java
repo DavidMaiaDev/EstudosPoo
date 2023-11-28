@@ -1,4 +1,4 @@
-package exercicios.one;
+package exercicios.exe01;
 public class Product {
 
     public String name;
